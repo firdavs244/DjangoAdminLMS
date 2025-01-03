@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Django Application with Docker
 
 This project is a Django application running in Docker containers. The application is set up to use PostgreSQL as the database.
