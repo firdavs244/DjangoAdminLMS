@@ -1,4 +1,3 @@
-markdown
 # Django Application with Docker
 
 This project is a Django application running in Docker containers. The application is set up to use PostgreSQL as the database.
@@ -18,8 +17,8 @@ Follow these steps to get the application up and running:
 Clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/firdavs244/DjangoAdminLMS.git
+cd DjangoAdminLMS
 ```
 
 ### 2. Build and start the containers
