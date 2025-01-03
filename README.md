@@ -98,16 +98,3 @@ This will stop and remove all the containers, networks, and volumes defined in t
   ```bash
   docker-compose down
   ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-### Tavsiyalar:
-1. **Repository URL** va **Repository Name** o'rnini to'ldiring.
-2. README faylida ko'rsatilgan URL va komandalarda aniq o'zgarishlar qilgan bo'lsangiz, ularni moslashtiring.
-3. Docker va Django bo'yicha qo'shimcha ma'lumotlar kerak bo'lsa, README fayliga o'zingizning spetsifikatsiyalarni qo'shishingiz mumkin.
-
-Ushbu **`README.md`** fayli GitHub repoingizda foydalanuvchilarga loyihani qanday boshlash, ishlatish va to'xtatish bo'yicha aniq ko'rsatmalar beradi.
